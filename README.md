@@ -5,3 +5,5 @@ As of now, the device currently logs: <br />
 Soil Moisture <br />
 Sunlight <br />
 Relative Humidity <br />
+<br />
+Huge thanks to Johann Nebe and Kulani Temesgen for contributing to the original project!
